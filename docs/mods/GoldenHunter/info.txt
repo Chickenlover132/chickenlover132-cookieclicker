@@ -1,1 +1,0 @@
-{ "Name": "Golden Hunter", "ID": "golden hunter", "Author": "BlacKcuD", "Description": "Test mod which hopefully auto-clicks golden cookies", "ModVersion": 2.04, "GameVersion": 2.04, "Date": "06/09/2021", "Dependencies": [], "Disabled": 1, "AllowSteamAchievs": 1 }
