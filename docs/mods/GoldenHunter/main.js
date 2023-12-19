@@ -1,0 +1,1 @@
+Game.registerMod("golden hunter",{ init:function(){ Game.Notify(`Golden Hunter Mod loaded!`,'',[16,5]); var autoGoldenCookie = setInterval(function() { for (var h in Game.shimmers){if(Game.shimmers[h].type=="golden"){Game.shimmers[h].pop();}} }, 1000); }, save:function(){ }, load:function(str){ }, });
